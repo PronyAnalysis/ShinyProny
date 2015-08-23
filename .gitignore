@@ -1,0 +1,39 @@
+# History files
+.Rhistory
+
+# Saved Data
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# RStudio files
+.Rproj.user/
+
+# TeX
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.pdf
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+*.txt
+*.dst
+*.class
+*.name
+*.blg
+*.bbl
+*.xml
+*.iml
+
+.Rproj.user
+*.Rproj
